@@ -111,6 +111,10 @@
     max-height: 45px;
   }
 
+  .h2 {
+    font-size: 10px;
+  }
+
   .navbar .navbar-nav {
     margin-top: 20px;
     margin-bottom: 15px;
